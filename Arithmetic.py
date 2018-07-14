@@ -22,10 +22,10 @@ print("Difference of two integers:",a-b)
 #Multiplication
 print("Multiplication of two inetgers",a*b)
 #Quotient
-print("Quotient of two integers:"a//b)
+print("Quotient of two integers:",a//b)
 #Reminder
-print("Reminder of two integers:"a%b)
+print("Reminder of two integers:",a%b)
 #Lograthmoc
-print("Log of first integer:"math.log10(a))
+print("Log of first integer:",math.log10(a))
 #Result ab
-print("Result of ab:"a*b)
+print("Result of ab:",a*b)
